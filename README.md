@@ -10,6 +10,9 @@ New home for the [devedmonton.com](https://devedmonton.com) website
 
 > Fostering a stronger software development community in Edmonton.
 
+# Questions and discussions
+If you would have like to discuss anything about the website we have a channel on the DES slack(join here ) on the #des-website-contributing and is welocme to anyone. Feel free to ask questions, get calrification, and request/ discuss features.
+ 
 ## Development Setup
 
 Note that all of these commands have been tested and used on Mac/unix machines, if you are on windows and these do not work for you look in the contributing guidelines for help.
